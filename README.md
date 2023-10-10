@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diyarbek Oralbaev</h1>
 <h3 align="center">A backend (Python) developer from Karakalpakistan</h3>
 
-- 🔭 I’m currently working on **Python telegram bot**
-
-- 🌱 I’m currently learning **Frameworks, Flask, FastAPI, Django, Django REST, Data science, Cyber Security, System administrator, DevOps**
+- 🌱 Skills. **Frameworks, Flask, FastAPI, Django, Django REST, Data science, Cyber Security, System administrator, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://diyarbek.uz](https://diyarbek.uz)
 
