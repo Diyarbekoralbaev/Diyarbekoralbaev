@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyarbekoralbaev&show_icons=true&locale=en&layout=compact" alt="diyarbekoralbaev" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Diyarbekoralbaev&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Diyarbekoralbaev&theme=transparent&background=EAEB21)](https://git.io/streak-stats)
