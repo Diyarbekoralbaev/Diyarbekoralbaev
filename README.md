@@ -2,7 +2,9 @@
 <h3 align="center">A Backend (Python) Developer from Karakalpakistan</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyarbekoralbaev&show_icons=true&locale=en&layout=compact" alt="diyarbekoralbaev" />
+  <a href="https://github.com/Diyarbekoralbaev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyarbekoralbaev&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" alt="Most Used Languages" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Diyarbekoralbaev">
-    <img src="https://github-readme-stats.vercel.app/api?username=Diyarbekoralbaev" alt="Diyarbek's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Diyarbekoralbaev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" alt="Diyarbek's GitHub stats">
   </a>
 </p>
 
