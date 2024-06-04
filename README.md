@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I love coding**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyarbekoralbaev&show_icons=true&locale=en&layout=compact" alt="diyarbekoralbaev" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Diyarbekoralbaev&theme=transparent)](https://git.io/streak-stats)
+<div style="text-align: center;">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyarbekoralbaev&show_icons=true&locale=en&layout=compact" alt="diyarbekoralbaev" /></p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Diyarbekoralbaev&theme=transparent" alt="GitHub Streak">
+  </a>
+</div>
