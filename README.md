@@ -21,13 +21,13 @@
 
 ---
 
-- 🌱 **Skills:** Frameworks, Flask, FastAPI, Django, Django REST, Data Science, Cyber Security, System Administration, DevOps
+- 🌱 **Skills:** Frameworks, Flask, FastAPI, Django, Django REST Framework, System Administration, DevOps
 
-- 👨‍💻 All of my projects are available at [diyarbek.uz](https://diyarbek.uz)
+- 👨‍💻 All of my projects are available at [diyarbek.uz](https://araltech.tech)
 
 - 📝 I regularly write articles on [Diyarbek's Blog](https://t.me/Diyarbek_Blog)
 
-- 💬 Ask me about **Python, Flask, FastAPI, Django, Django REST, Algorithms, Cyber Security, System Administration, DevOps**
+- 💬 Ask me about **Python, Flask, FastAPI, Django, Django REST, Algorithms, System Administration, DevOps**
 
 - 📫 How to reach me: **diyarbekdev@gmail.com**
 
