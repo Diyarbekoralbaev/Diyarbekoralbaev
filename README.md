@@ -37,11 +37,18 @@
 
 ---
 
+### 💖 Support My Work
+
+If you enjoy my work, consider supporting me through donations. Your contributions help me continue to create open-source projects and share knowledge with the community. Thank you for your support!
+
+<p align="center">
+  <a href="[https://paypal.me/diyarbekoralbaev](https://tirikchilik.uz/araltech)">
+    <img src="[https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal](https://camo.githubusercontent.com/ed28339e5a5786534715b1c0c885271437761fc91af84d5dc5bbc2c71e307a02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546972696b6368696c696b2d6666646430303f7374796c653d666f722d7468652d6261646765)" alt="Donate with Tirikchilik">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Diyarbekoralbaev">
     <img src="https://img.shields.io/github/followers/diyarbekoralbaev?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow&style=social" alt="Twitter Followers">
   </a>
 </p>
