@@ -28,6 +28,11 @@
 
 ---
 
+## My Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Diyarbekoralbaev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 💖 Support My Work
 
 If you enjoy my work, consider supporting me through donations. Your contributions help me continue to create open-source projects and share knowledge with the community. Thank you for your support!
