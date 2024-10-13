@@ -1,17 +1,16 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Diyarbekoralbaev)](https://git.io/streak-stats)
 <h1 align="center">Hi 👋, I'm Diyarbek Oralbaev</h1>
 <div align="center"<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=I+am+Oralbaev+Diyarbek+Python+developer;I+am+Oralbaev+Diyarbek+Python+developer" alt="Typing SVG" /></a></div>
 <h3 align="center">A Backend (Python) Developer from Karakalpakistan</h3>
 
 <div align="center">
-  <a href="https://github.com/Diyarbekoralbaev">
+  <a href="https://github.com/Abduraxmonnn">
 <!--       <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abduraxmonnn&border_radius=20&hide_border=true&show_icons=true&count_private=true&theme=radical"/> -->
 <!-- 📈GITHUB STATE GENERATOR / 🌐WEBSITE: https://awesome-github-stats.azurewebsites.net/ -->
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=true">
-         <img  alt="Diyarbek's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Diyarbekoralbaev?cardType=level&theme=radical&preferLogin=true" />  
+         <img  alt="Abduraxmonnn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abduraxmonnn?cardType=level&theme=radical&preferLogin=true" />  
       </a>
       <a href="https://git.io/streak-stats">
-         <img src="https://streak-stats.demolab.com?user=Diyarbekoralbaev&theme=radical&border_radius=10&exclude_days=Sun" alt="GitHub Streak" />
+         <img src="https://streak-stats.demolab.com?user=Abduraxmonnn&theme=radical&border_radius=10&exclude_days=Sun" alt="GitHub Streak" />
       </a>
 <!--      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abduraxmonnn&border_radius=20&hide_border=true&theme=radical"/> -->
 <!--       <img width="40%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abduraxmonnn&border_radius=20&hide_border=true&layout=compact&theme=radical"/> -->
