@@ -43,5 +43,3 @@ If you enjoy my work, consider supporting me through donations. Your contributio
     <img src="https://img.shields.io/github/followers/diyarbekoralbaev?label=Follow&style=social" alt="GitHub Followers">
   </a>
 </p>
-
-![Snake animation](https://raw.githubusercontent.com/Diyarbekoralbaev/Diyarbekoralbaev/output/github-contribution-grid-snake-dark.svg)
