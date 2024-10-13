@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Diyarbek Oralbaev</h1>
 <h3 align="center">A Backend (Python) Developer from Karakalpakistan</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Diyarbekoralbaev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyarbekoralbaev&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" alt="Most Used Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Diyarbekoralbaev&theme=transparent" alt="GitHub Streak">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Diyarbekoralbaev">
-    <img src="https://github-readme-stats.vercel.app/api?username=Diyarbekoralbaev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" alt="Diyarbek's GitHub stats">
-  </a>
-</p>
+<!--       <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abduraxmonnn&border_radius=20&hide_border=true&show_icons=true&count_private=true&theme=radical"/> -->
+<!-- 📈GITHUB STATE GENERATOR / 🌐WEBSITE: https://awesome-github-stats.azurewebsites.net/ -->
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=true">
+         <img  alt="Diyarbek's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Diyarbekoralbaev?cardType=level&theme=radical&preferLogin=true" />  
+      </a>
+      <a href="https://git.io/streak-stats">
+         <img src="https://streak-stats.demolab.com?user=Diyarbekoralbaev&theme=radical&border_radius=10&exclude_days=Sun" alt="GitHub Streak" />
+      </a>
+<!--      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abduraxmonnn&border_radius=20&hide_border=true&theme=radical"/> -->
+<!--       <img width="40%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abduraxmonnn&border_radius=20&hide_border=true&layout=compact&theme=radical"/> -->
+</div>
 
 ---
 
