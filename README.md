@@ -4,7 +4,7 @@
 
 ## My Journey
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Diyarbekoralbaev&show_icons=true&theme=onedark">
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Diyarbekoralbaev&include_all_commits=true&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Diyarbekoralbaev&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Diyarbekoralbaev&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Diyarbekoralbaev&theme=onedark" />
